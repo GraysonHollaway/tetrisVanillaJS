@@ -1,0 +1,1 @@
+This is a simple tetris game developed in vanilla JavaScript. This is my first project with JavaScript. Incomming commits will fix boundry rotation bug as well as the plain aethstetic.
