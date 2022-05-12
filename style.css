@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 75px;
+}
+
+.display-info {
+    justify-content: center;
+}
+
+.display-info h3 {
+    text-align: center;
+}
+
+.display-info button {
+    margin: 0;
+    position: absolute;
+    left: 50%;
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+.grid {
+    width: 200px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+}
+
+.grid div {
+    width: 20px;
+    height: 20px;
+}
+
+.tetrominoe {
+    background-color: blue;
+
+}
+
+.mini-grid {
+    margin-left: 50px;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+}
+.mini-grid div {
+    width: 20px;
+    height: 20px;
+
+}
